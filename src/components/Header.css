@@ -1,0 +1,30 @@
+.headerclass {
+    margin-top: 2px;
+    color: rgb(34, 21, 21);
+    background-color:rgb(226, 223, 247);
+    border-color: blanchedalmond;
+    height:70px;
+    font-size: 40px;
+}
+.nxtheader {
+    margin-top: 2px;
+    color: rgb(156, 65, 65);
+    background-color:rgb(226, 223, 247);
+    border-color: blanchedalmond;
+    height:800px;
+    font-size: 20px;
+}
+.textField {
+    float:left;
+    width: 350px;
+  }
+.form {
+        float:left;
+        width:1400px;
+        padding: 10px 5px;
+}
+.savebtn {
+        float:left;
+        width:1400px;
+        padding: 10px 5px;
+}
